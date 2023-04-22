@@ -1,0 +1,4 @@
+.book-container:hover {
+  text-decoration: line-through;
+  cursor: pointer;
+}
